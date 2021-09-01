@@ -1,5 +1,5 @@
 module.exports = {
-    token: 'process.env.DISCORD_TOKEN',
+    token: process.env.DISCORD_TOKEN,
     prefix: '.',
     devs: '822098497586462750',
     embedcolor: 'white',
