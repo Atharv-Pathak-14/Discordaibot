@@ -41,7 +41,6 @@ class Bot extends Client {
 
         LoadEvents(this);
 
-        LoadPlayerEvents(this);
 
         LoadButtons(this);
         
