@@ -2,18 +2,16 @@
 
 # Adalyn AI Bot ✨
 
-[![Run on Repl.it](https://repl.it/badge/github/kochumutaalili-working-bot)](https://replit.com/@ALBINPRAVEEN1/kochumutaalili-working-bot)
+[![Run on Repl.it](https://camo.githubusercontent.com/be032494a233efc9001dcbe3cae8f87bf0db036b8c18696b612b9988c694e051/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f44656c7461436f646572722f4b61726d61426f74)](https://replit.com/@ALBINPRAVEEN1/kochumutaalili-working-bot)
 
 >  A Multipurpose Discord Bot with a Music System and AI chat bot.
 
 Karma Bot is a open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by [ALBINPRAVEEN](https://github.com/ALBINPRAVEEN).  
 
 ## Categories 📑
-- [x] Music & Filter
 - [x] Fun
 - [x] Anime
 - [x] Buttons
-- [x] NSFW
 - [x] Utility
 - [X] Image
 - [X] ChatBot
@@ -22,7 +20,6 @@ Karma Bot is a open source Discord bot coded in JavaScript with [Discord.js](htt
 
 Adalyn has a lot of features, with **7 main categories**:
 
-*   🎵 **Music**: `play`, `skip`, `queue`, `np`,`filters` and **10** more! 
 *   👩‍💼 **Information**: `info`, `help`, `invite` and **2** more! 
 *   🚓 **Anime**: `anime`, `hug`, `karma`, `neko` and **11** more! 
 *   🤖 **ChatBot**: `chatbot` and **2** more! 
@@ -61,15 +58,12 @@ module.exports = {
     music1: "",
     queue: "",
     success: "",
-    music: "",
     fun: "",
     chatbot: "",
     image: "",
     anime: "",
-    nsfw: "",
     other: "",
     diskspin: "",
     owner: "",
-    buttons: ""
 }
 ```
